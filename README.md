@@ -1,6 +1,6 @@
 # BOUNCE
 ## Overview
-BOUNCE is an two-dimensional esoteric programming language where the Instruction Pointer is always moving diagonally and can bounce off "#" characters and the boundaries of the program.
+BOUNCE is an two-dimensional esoteric programming language where the Instruction Pointer is always moving diagonally and can bounce off "#" characters and the boundaries of the program similiarly to a DVD logo.
 ## Usage
 Install the requirements:
 <pre>
