@@ -73,7 +73,7 @@ class Interpreter:
         self.stack.append(b)
     def do_rot(self):
         a = self.popstack(0,0)
-        self.stack.insert(0,a)
+        self.stack.append(a)
     def do_pop(self):
         self.popstack()
     def do_pnu(self):
